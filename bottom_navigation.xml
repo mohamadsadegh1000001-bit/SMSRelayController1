@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="خانه" />
+
+    <item
+        android:id="@+id/nav_scenes"
+        android:icon="@drawable/ic_scene"
+        android:title="سناریوها" />
+
+    <item
+        android:id="@+id/nav_timer"
+        android:icon="@drawable/ic_timer"
+        android:title="تایمر" />
+
+    <item
+        android:id="@+id/nav_schedule"
+        android:icon="@drawable/ic_schedule"
+        android:title="زمان‌بندی" />
+
+    <item
+        android:id="@+id/nav_more"
+        android:icon="@drawable/ic_more"
+        android:title="بیشتر" />
+
+</menu>

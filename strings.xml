@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SMS Relay Controller</string>
+    <string name="device_number">شماره دستگاه</string>
+    <string name="hint_phone">مثلاً 09123456789</string>
+    <string name="send">ارسال</string>
+    <string name="status">وضعیت</string>
+    <string name="history">تاریخچه</string>
+    <string name="settings">تنظیمات</string>
+    <string name="schedule">زمان‌بندی</string>
+    <string name="relay_on">روشن</string>
+    <string name="relay_off">خاموش</string>
+    <string name="all_on">روشن کردن همه</string>
+    <string name="all_off">خاموش کردن همه</string>
+    <string name="ping">بررسی سلامت</string>
+    <string name="version">نسخه</string>
+    <string name="command_sent">دستور ارسال شد</string>
+    <string name="no_response">پاسخی دریافت نشد</string>
+    <string name="response_received">پاسخ دریافت شد</string>
+    <string name="add_schedule">افزودن زمان‌بندی جدید</string>
+</resources>
